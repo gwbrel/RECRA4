@@ -1,0 +1,10 @@
+Dataset,Algoritmo,TempoExecucao_ns,NumeroTrocas,NumeroIteracoes
+1,Merge Sort Iterativo,8591700,108,49
+1,Radix Sort,467500,150,3
+1,Quick Sort Iterativo,361200,425,44
+2,Merge Sort Iterativo,20300,132,49
+2,Radix Sort,17300,150,3
+2,Quick Sort Iterativo,43400,625,48
+3,Merge Sort Iterativo,40400,133,49
+3,Radix Sort,13800,100,2
+3,Quick Sort Iterativo,83100,649,49
